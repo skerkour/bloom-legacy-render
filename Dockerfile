@@ -1,1 +1,1 @@
-FROM ghcr.io/skerkour/bloom:latest
+FROM ghcr.io/skerkour/bloom-legacy:latest
